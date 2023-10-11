@@ -31,7 +31,7 @@
     "@edx/brand": "npm:@edly-io/sdaia-brand-openedx@^1.0.0",
     "@edx/frontend-component-footer": "npm:@edly-io/sdaia-frontend-footer@^1.0.0",
     "@edx/frontend-component-header": "npm:@edly-io/sdaia-frontend-header@^1.0.0",
-    "@edx/frontend-platform": "2.5.0",
+    "@edx/frontend-platform": "^4.0.0",
     "@edx/paragon": "^19.25.4",
     "@edx/reactifex": "^2.1.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
